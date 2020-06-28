@@ -1,2 +1,2 @@
 # Benchmark
-A smple benchmark program in C
+A simple benchmark program in C
